@@ -24,3 +24,23 @@
 
 ![](../pic/Huffman编码2.png)
 
+使用Huffman编码需要注意的问题:
+
+![](../pic/使用Huffman编码需要注意的问题.png)
+
+Huffman编码的优化:
+
+![](../pic/Huffman编码的优化算法.png)
+
+![](../pic/变长编码.png)
+
+##### 移位码(S码)
+
+![](../pic/移位码.png)
+
+![](../pic/S2编码例子.png)
+
+Huffman移位编码
+
+
+
