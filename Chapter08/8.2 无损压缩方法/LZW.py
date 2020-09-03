@@ -50,6 +50,7 @@ for c in result1:  # 因为编码1删除了, 所以c从第二个编码开始
 
 print('译码结果为: ')
 print(''.join(result2))  # 将译码结果输出为字符串形式
+print(dictionary2)
 
 x1 = len(string)
 x3 = (x1*8)/(x2*9)  #计算压缩比
