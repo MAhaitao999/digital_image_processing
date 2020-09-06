@@ -40,4 +40,35 @@
 
 ![](../pic/DCT变换.png)
 
+![](../pic/DCT变换2.png)
+
+![](../pic/DCT变换3.png)
+
+![](../pic/DCT变换4.png)
+
+![](../pic/DCT变换5.png)
+
+![](../pic/DCT变换6.png)
+
+![](../pic/DCT变换7.png)
+
+![](../pic/DCT变换8.png)
+
+![](../pic/二维DCT变换1.png)
+
+![](../pic/二维DCT变换2.png)
+
+![](../pic/二维DCT变换3.png)
+
+![](../pic/二维DCT变换4.png)
+
+![](../pic/二维DCT变换5.png)
+
+![](../pic/二维DCT变换6.png)
+
+
+
+
+
+
 
